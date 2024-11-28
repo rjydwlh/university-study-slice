@@ -1,0 +1,6 @@
+var a;
+const b:=1;
+begin 
+    a:=a+b;
+    b:=a+b;
+end.
